@@ -76,7 +76,7 @@ export const Contact: React.FC = () => {
                   <Mail className="w-6 h-6 text-green-600 flex-shrink-0" />
                   <div>
                     <h3 className="font-medium text-gray-900">Email</h3>
-                    <p className="text-gray-600">shaswatmishra5533@gmail.com</p>
+                    <p className="text-gray-600">ashutoshnayak720@gmail.com</p>
                   </div>
                 </div>
 
@@ -84,7 +84,7 @@ export const Contact: React.FC = () => {
                   <Phone className="w-6 h-6 text-green-600 flex-shrink-0" />
                   <div>
                     <h3 className="font-medium text-gray-900">Phone</h3>
-                    <p className="text-gray-600">+91 96926 77609</p>
+                    <p className="text-gray-600">+91 82608 76955</p>
                   </div>
                 </div>
 
@@ -92,7 +92,7 @@ export const Contact: React.FC = () => {
                   <MapPin className="w-6 h-6 text-green-600 flex-shrink-0" />
                   <div>
                     <h3 className="font-medium text-gray-900">Address</h3>
-                    <p className="text-gray-600">Bangalore<br />Agricultural District<br />India</p>
+                    <p className="text-gray-600">Odisha<br />Agricultural District<br />India</p>
                   </div>
                 </div>
               </div>
